@@ -22,6 +22,8 @@
 <p>•	Improving my knowledge of container orchestration with Kubernetes.</p>
 <p>•	Enhancing skills in UI/UX design principles.</p>
 
+<h3>Work</h3>
+
 - 🔭 I’m currently working on [Venus Online Software Training Center](https://venus-online-software-training.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PopGirma1?tab=repositories](https://github.com/PopGirma1?tab=repositories)
@@ -44,11 +46,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popgirma1&show_icons=true&locale=en" alt="popgirma1" /></p>
 
 
-🎯 Goals:
-•	Contributing to impactful open-source projects.
-•	Mentoring aspiring developers and sharing knowledge through workshops and talks.
-🤝 Collaboration:
-•	Open to collaboration on exciting projects.
-•	Let's work together to bring your ideas to life!
-
+<h3>🎯 Goals:</h3>
+<p>•	Contributing to impactful open-source projects.
+</p>
+<p>•	Mentoring aspiring developers and sharing knowledge through workshops and talks.
+</p>
+<h3>🤝 Collaboration:</h3>
+<p>•	Open to collaboration on exciting projects.
+</p>
+<p>•	Let's work together to bring your ideas to life!
+</p>
 
