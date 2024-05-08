@@ -1,21 +1,25 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19978
-Fork on GitHub
-6027
+Girmay Tadese
+Expert Full Stack Developer | Software Engineer
+🌟 Welcome to my GitHub! 🌟
+I'm a passionate and dedicated full stack developer with expertise in building robust and scalable web applications. With 5+ years of experience in the software industry, I thrive on crafting innovative solutions that deliver exceptional user experiences.
+💻 Tech Stack:
+•	Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular.
+•	Backend: Node.js, Express.js, Python (Django, Flask).
+•	Databases: MongoDB, PostgreSQL, MySQL, SQLite
+•	DevOps: Docker and Google Cloud Platform
+•	Tools: Git, GitHub Actions, Slack, Trello
+🚀 What I Do:
+•	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
+•	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.
+•	API Development: Building robust RESTful APIs to power modern web applications.
+•	Database Management: Designing efficient database schemas and optimizing query performance.
+•	DevOps & Deployment: Implementing CI/CD pipelines and deploying applications with scalability and reliability in mind.
+🌱 Currently Learning:
+•	Exploring serverless architectures and microservices.
+•	Improving my knowledge of container orchestration with Kubernetes.
+•	Enhancing skills in UI/UX design principles.
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Girmay Tadese</h1>
-<h3 align="center">A passionate Full stack web developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=popgirma1&label=Profile%20views&color=0e75b6&style=flat" alt="popgirma1" /> </p>
 
@@ -40,27 +44,12 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popgirma1&show_icons=true&locale=en" alt="popgirma1" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
+🎯 Goals:
+•	Contributing to impactful open-source projects.
+•	Mentoring aspiring developers and sharing knowledge through workshops and talks.
+🤝 Collaboration:
+•	Open to collaboration on exciting projects.
+•	Let's work together to bring your ideas to life!
+
+
