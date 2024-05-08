@@ -6,22 +6,22 @@
 <p>With 6+ years of experience in the software industry, I thrive on crafting innovative solutions that deliver exceptional user experiences.
 </p>
 <h3>💻 Tech Stack:</h3>
-<p>•	Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular.</p>
-<p>•	Backend: Node.js, Express.js, Python (Django, Flask).</p>
-<p>•	Databases: MongoDB, PostgreSQL, MySQL, SQLite</p>
-<p>•	DevOps: Docker and Google Cloud Platform</p>
-<p>•	Tools: Git, GitHub Actions, Slack, Trello</p>
+<p>✅	Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular.</p>
+<p>✅	Backend: Node.js, Express.js, Python (Django, Flask).</p>
+<p>✅	Databases: MongoDB, PostgreSQL, MySQL, SQLite</p>
+<p>✅	DevOps: Docker and Google Cloud Platform</p>
+<p>✅	Tools: Git, GitHub Actions, Slack, Trello</p>
 <h3>🚀 What I Do:</h3>
-<p>•	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
+<p>•=✅	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
 </p>
-<p>•	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.</p>
-<p>•	API Development: Building robust RESTful APIs to power modern web applications.</p>
-<p>•	Database Management: Designing efficient database schemas and optimizing query performance.</p>
-<p>•	DevOps & Deployment: Implementing CI/CD pipelines and deploying applications with scalability and reliability in mind.</p>
+<p>✅	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.</p>
+<p>✅	API Development: Building robust RESTful APIs to power modern web applications.</p>
+<p>✅	Database Management: Designing efficient database schemas and optimizing query performance.</p>
+<p>✅	DevOps & Deployment: Implementing CI/CD pipelines and deploying applications with scalability and reliability in mind.</p>
 <h3>🌱 Currently Learning:</h3>
-<p>•	Exploring serverless architectures and microservices.</p>
-<p>•	Improving my knowledge of container orchestration with Kubernetes.</p>
-<p>•	Enhancing skills in UI/UX design principles.</p>
+<p>✅	Exploring serverless architectures and microservices.</p>
+<p>✅	Improving my knowledge of container orchestration with Kubernetes.</p>
+<p>✅	Enhancing skills in UI/UX design principles.</p>
 
 <h3> 👨‍💻 Work</h3>
 
@@ -95,14 +95,14 @@
 
 
 <h3>🎯 Goals:</h3>
-<p>•	Contributing to impactful open-source projects.
+<p>✅	Contributing to impactful open-source projects.
 </p>
-<p>•	Mentoring aspiring developers and sharing knowledge through workshops and talks.
+<p>✅	Mentoring aspiring developers and sharing knowledge through workshops and talks.
 </p>
 <h3>🤝 Collaboration:</h3>
-<p>•	Open to collaboration on exciting projects.
+<p>✅	Open to collaboration on exciting projects.
 </p>
-<p>•	Let's work together to bring your ideas to life!
+<p>✅	Let's work together to bring your ideas to life!
 </p>
 
 
