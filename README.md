@@ -1,28 +1,26 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="popgirma1" /> </p>
-Girmay Tadese
-Expert Full Stack Developer | Software Engineer
-🌟 Welcome to my GitHub! 🌟
-I'm a passionate and dedicated full stack developer with expertise in building robust and scalable web applications. With 5+ years of experience in the software industry, I thrive on crafting innovative solutions that deliver exceptional user experiences.
-💻 Tech Stack:
-•	Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular.
-•	Backend: Node.js, Express.js, Python (Django, Flask).
-•	Databases: MongoDB, PostgreSQL, MySQL, SQLite
-•	DevOps: Docker and Google Cloud Platform
-•	Tools: Git, GitHub Actions, Slack, Trello
-🚀 What I Do:
-•	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
-•	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.
-•	API Development: Building robust RESTful APIs to power modern web applications.
-•	Database Management: Designing efficient database schemas and optimizing query performance.
-•	DevOps & Deployment: Implementing CI/CD pipelines and deploying applications with scalability and reliability in mind.
-🌱 Currently Learning:
-•	Exploring serverless architectures and microservices.
-•	Improving my knowledge of container orchestration with Kubernetes.
-•	Enhancing skills in UI/UX design principles.
-
-
-
-
+<h1> Girmay Tadese </h1> 
+<h4>Expert Full Stack Developer | Software Engineer</h4>
+<h2>🌟 Welcome to my GitHub! 🌟</h2>
+<p>I'm a passionate and dedicated full stack developer with expertise in building robust and scalable web applications. With 5+ years of experience in the software industry, I thrive on crafting innovative solutions that deliver exceptional user experiences.
+</p>
+<h3>💻 Tech Stack:</h3>
+<p>•	Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular.</p>
+<p>•	Backend: Node.js, Express.js, Python (Django, Flask).</p>
+<p>•	Databases: MongoDB, PostgreSQL, MySQL, SQLite</p>
+<p>•	DevOps: Docker and Google Cloud Platform</p>
+<p>•	Tools: Git, GitHub Actions, Slack, Trello</p>
+<h3>🚀 What I Do:</h3>
+<p>•	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
+</p>
+<p>•	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.</p>
+<p>•	API Development: Building robust RESTful APIs to power modern web applications.</p>
+<p>•	Database Management: Designing efficient database schemas and optimizing query performance.</p>
+<p>•	DevOps & Deployment: Implementing CI/CD pipelines and deploying applications with scalability and reliability in mind.</p>
+<h3>🌱 Currently Learning:</h3>
+<p>•	Exploring serverless architectures and microservices.</p>
+<p>•	Improving my knowledge of container orchestration with Kubernetes.</p>
+<p>•	Enhancing skills in UI/UX design principles.</p>
 
 - 🔭 I’m currently working on [Venus Online Software Training Center](https://venus-online-software-training.com)
 
