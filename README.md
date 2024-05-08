@@ -105,3 +105,17 @@
 <p>•	Let's work together to bring your ideas to life!
 </p>
 
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
