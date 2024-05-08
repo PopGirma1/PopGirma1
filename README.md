@@ -92,7 +92,12 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
+<h3>Key Points About Me:</h3>
+<p>✅ Client satisfaction reigns as my paramount objective.</p>
+<p>✅ Disciplined, industrious, and wholeheartedly devoted</p>
+<p>✅ Flexible work hours tailored to suit your requirements</p>
+<p>✅ Delivery-oriented mindset poised to surpass expectations</p>
+<p>✅ Elevated sense of responsibility and ownership.</p>
 
 <h3>🎯 Goals:</h3>
 <p>✅	Contributing to impactful open-source projects.
