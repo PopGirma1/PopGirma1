@@ -1,4 +1,4 @@
-<p align="left"> <img src="[[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/](https://github.com/PopGirma1/PopGirma1/blob/main/programmer.gif)](https://github.com/PopGirma1/PopGirma1/blob/main/programmer.gif)" alt="popgirma1" /> </p>
+<p align="left"> <img src="https://github.com/PopGirma1/PopGirma1/blob/main/programmer.gif?raw=true" alt="popgirma1" /> </p>
 <h1> Girmay Tadese </h1> 
 <h4>Expert Full Stack Developer | Software Engineer</h4>
 <h2>🌟 Welcome to my GitHub! 🌟</h2>
