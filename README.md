@@ -12,7 +12,7 @@
 <p>✅	DevOps: Docker and Google Cloud Platform</p>
 <p>✅	Tools: Git, GitHub Actions, Slack, Trello</p>
 <h3>🚀 What I Do:</h3>
-<p>•=✅	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
+<p>✅	Full Stack Development: From conceptualization to deployment, I'm proficient in every aspect of web development.
 </p>
 <p>✅	Responsive Design: Crafting interfaces that look great and function flawlessly across all devices and screen sizes.</p>
 <p>✅	API Development: Building robust RESTful APIs to power modern web applications.</p>
@@ -25,13 +25,13 @@
 
 <h3> 👨‍💻 Work</h3>
 
-- 🔭 I’m currently working on [Venus Online Software Training Center](https://venus-online-software-training.com)
+✔️ 🔭 I’m currently working on [Venus Online Software Training Center](https://venus-online-software-training.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PopGirma1?tab=repositories](https://github.com/PopGirma1?tab=repositories)
+✔️ 👨‍💻 All of my projects are available at [https://github.com/PopGirma1?tab=repositories](https://github.com/PopGirma1?tab=repositories)
 
-- 📫 How to reach me **girmaytadesepop@gmail.com**
+✔️ 📫 How to reach me **girmaytadesepop@gmail.com**
 
-- 📄 Know about my experiences [https://popgirma1.github.io/portfolio/#certificates](https://popgirma1.github.io/portfolio/#certificates)
+✔️ 📄 Know about my experiences [https://popgirma1.github.io/portfolio/#certificates](https://popgirma1.github.io/portfolio/#certificates)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
